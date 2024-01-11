@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314224757225",
+    "project_id": "flash-chat-eea5b",
+    "storage_bucket": "flash-chat-eea5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314224757225:android:e6c1dfc58106ac7b792378",
+        "android_client_info": {
+          "package_name": "co.Jeremiah.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314224757225-1k20ffq3qv372fqtbcgdoglkk1gctej6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CfjkU1u5Do9w9ECNBh7uLN0OZQNR-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314224757225-1k20ffq3qv372fqtbcgdoglkk1gctej6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
